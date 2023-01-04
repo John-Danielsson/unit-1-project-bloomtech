@@ -1,1 +1,2 @@
 # unit-1-project-bloomtech
+This is the code for an [article on Medium.com](https://medium.com/@johnonthepath/how-to-do-a-chi-square-test-in-python-a4fd1308d1f4) explaining how to perform a Chi-Square Test.
